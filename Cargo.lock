@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "automatic-octo-guacamole"
-version = "1.0.8-dev"
+version = "1.0.8-alpha"
